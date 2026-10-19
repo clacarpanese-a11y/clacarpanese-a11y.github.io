@@ -1,0 +1,40 @@
+CLAUDIA CARPANESE WEBSITE
+
+1. Extract this ZIP on your computer.
+2. Open index.html to preview the site in your browser.
+3. In your GitHub repository, choose Add file > Upload files.
+4. Upload index.html, research.html, talks.html, style.css and favicon.svg directly into the repository, not inside an extra folder.
+5. Click Commit changes.
+6. In Settings > Pages, choose Deploy from a branch, main, /(root), then Save.
+
+EDITING
+Open a page file on GitHub and click the pencil icon. Edit the words between HTML tags, then Commit changes. Preserve the tags.
+
+PHOTO
+Upload a file called portrait.jpg. In index.html, insert this where you want the photo:
+<img src="portrait.jpg" alt="Claudia Carpanese" style="width:240px;max-width:100%;height:auto">
+
+CV
+Upload your public CV as cv.pdf. In the footer of each page, insert:
+<a href="cv.pdf" download>Download my CV</a>
+
+CONTACT
+Add your preferred public email in each footer:
+<a href="mailto:YOUR-EMAIL">Contact</a>
+
+CONTENT REVIEW
+Review the wording, dates and event descriptions before publishing. The publication title needs its verified link and full bibliographic details. No photo, email or CV is included yet.
+
+UPDATED CONTENT
+The Speaking page remains named talks.html, so existing links continue to work. Upload all five website files to replace the previous version. Email, LinkedIn and ResearchGate links are active beneath the university affiliation. November 2026 is marked upcoming. Training facilitation is draft wording for your review.
+
+COLOUR AND PHOTOS
+Upload all HTML, CSS, SVG and JPG files from this folder directly into your GitHub repository. There are now six JPG photos, which must be uploaded too. Preserve the filenames. Do not upload only the ZIP or the enclosing folder. The photos are arranged as requested: profile and About on the first page, research1 and research2 on Research, speaking1 and speaking2 on Speaking.
+
+LATEST UPDATE
+Subtle teal background, smaller circular profile portrait, smaller research1, research2 beside current research, and matched smaller Speaking photographs. The new conference.jpg belongs beside academic presentations. Upload all seven JPG photographs and the five website files.
+
+LATEST PHOTO CHANGES
+Portrait appears on the left without a white frame. Updated research1 and research2 are beside the research text. speaking3 appears below speaking1. speaking4 replaces the former training photo. Upload every HTML, CSS, SVG and JPG file included in this package.
+
+Added speaking5 beneath speaking3, with equal 36px spacing between the three stacked photographs. Include speaking5.jpg when uploading.
